@@ -40,7 +40,7 @@
     "match-sorter": "^4.1.0",
     "material-ui-audio-player": "^1.1.9",
     "material-ui-image": "^3.2.3",
-    "next": "^9.4.4",
+    "next": "^13.0.4",
     "numeral": "^2.0.6",
     "query-string": "^6.13.0",
     "react": "^16.13.1",
